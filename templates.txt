@@ -1,0 +1,5 @@
+Summarize the following song lyrics: [LYR]
+Take on the role of a music critic tasked with summarizing or parsing the essential meaning of the following lyrics: [LYR]
+Summarize the following song lyrics as if explaining the key message to a casual listener unfamiliar with the song: [LYR]
+Analyze the emotions and themes conveyed in the following song lyrics and provide a concise summary: [LYR]
+Identify the central metaphors, symbols, or imagery in the following song lyrics and summarize their overall meaning: [LYR]
